@@ -33,6 +33,8 @@
   "main": "index.js",
   "repository": "https://github.com/MyLhassane/nextjs-fullstack-app-template.git",
   "devDependencies": {
+    "@commitlint/cli": "^17.2.0",
+    "@commitlint/config-conventional": "^17.2.0",
     "husky": "^8.0.2",
     "prettier": "^2.7.1"
   }
