@@ -4,7 +4,7 @@
   "description": "A tutorial and template for creating a production-ready fullstack Next.js application",
   "version": "0.1.0",
   "private": true,
-  "license" : "MIT",
+  "license": "MIT",
   "homepage": "YOUR_GIT_REPO_URL",
   "engines": {
     "node": ">=14.19.2",
@@ -27,5 +27,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/MyLhassane/nextjs-fullstack-app-template.git"
 }
