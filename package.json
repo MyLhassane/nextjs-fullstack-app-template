@@ -16,7 +16,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@types/node": "18.11.9",
@@ -32,6 +33,7 @@
   "main": "index.js",
   "repository": "https://github.com/MyLhassane/nextjs-fullstack-app-template.git",
   "devDependencies": {
+    "husky": "^8.0.2",
     "prettier": "^2.7.1"
   }
 }
